@@ -5,7 +5,7 @@ public class Start {
 		
 		
 		System.out.println("hola mundo");
-
+		System.out.println("persona hola");
 	}
 
 }
