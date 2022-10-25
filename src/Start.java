@@ -5,7 +5,11 @@ public class Start {
 		
 		
 		System.out.println("hola mundo");
+
 		System.out.println("master hola");
+
+		System.out.println("persona hola");
+
 	}
 
 }
